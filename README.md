@@ -22,11 +22,12 @@ The class projects I previously uploaded were helpful for learning but didn't re
 
 ### 🃏 Multiplayer Card Game
 **Tech Stack**: Go (Gorilla WebSocket) • React Native • WebSocket
-**Description**: A turn-based card game playable with friends. Built from scratch using WebSocket connections for real-time multiplayer gameplay
+**Description**: A turn-based card game playable with friends. Built from scratch using WebSocket connections for real-time multiplayer gameplay.
 [🔗 View Repo](https://github.com/tyreesamurai/shithead)<!-- Replace with actual link -->
 
 ### 💬 Language Learning Chatbot
 **Tech Stack**: Python • LLMs • LangChain • React • FastAPI
+**Description**: An intelligent chatbot that reviews diary entriese in a target language & provides grammar corrections & learning suggestions.
 [🔗 View Repo](https://github.com/tyreesamurai/diary-helper)
 
 ### 🌐 Portfolio Website
@@ -43,7 +44,7 @@ The class projects I previously uploaded were helpful for learning but didn't re
 
 ---
 
-📬 **Feel free to connect!** I'm actively looking for remote roles as a **Full-Stack Software Engineer** and am open to relocation, especially to **Europe (Spain/Portugal preferred)**.
+📬 **Feel free to connect!** I'm actively looking for remote roles as a **Full-Stack Software Engineer** and am open to relocation to **ANY** location!
 
 <!--
 **tyreesamurai/tyreesamurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
