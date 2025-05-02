@@ -20,27 +20,19 @@ The class projects I previously uploaded were helpful for learning but didn't re
 **Description:** A full-stack application where users can create and share recipes, including ingredients, steps, and nutritional data. Focus on clean API design and dynamic UI interactions.  
 [🔗 View Repo](https://github.com/tyreesamurai/recipe-assistant)<!-- Replace with actual link -->
 
----
-
 ### 🃏 Multiplayer Card Game
 **Tech Stack**: Go (Gorilla WebSocket) • React Native • WebSocket
 **Description**: A turn-based card game playable with friends. Built from scratch using WebSocket connections for real-time multiplayer gameplay
 [🔗 View Repo](https://github.com/tyreesamurai/shithead)<!-- Replace with actual link -->
 
-___
-
 ### 💬 Language Learning Chatbot
 **Tech Stack**: Python • LLMs • LangChain • React • FastAPI
 [🔗 View Repo](https://github.com/tyreesamurai/diary-helper)
-
----
 
 ### 🌐 Portfolio Website
 **Tech Stack:** Next.js • Tailwind CSS • TypeScript • Shadcn UI  
 **Description:** A personal portfolio website with interactive transitions and directional navigation between sections (skills, projects, contact, etc.).  
 [🔗 View Repo](https://github.com/tyreesamurai/my-portfolio) 
-
----
 
 ## 🎯 Goals
 
