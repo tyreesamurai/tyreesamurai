@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tyree Carpenter
 
-I recenterly graduated from **Virginia Commonwealth University** with a **B.S. in Computer Science** & a concentration in **Software Engineering**. I'm restarting my GitHub from scratch to focus on building meaningful, real-world projects that reflect my current interests & goals.
+I recently graduated from **Virginia Commonwealth University** with a **B.S. in Computer Science** & a concentration in **Software Engineering**. I'm restarting my GitHub from scratch to focus on building meaningful, real-world projects that reflect my current interests & goals.
 
 The class projects I previously uploaded were helpful for learning but didn't represent the kind of full-stack, scalable, & impactful applications I aim to build today. This new phase is all about:
 
@@ -18,16 +18,16 @@ The class projects I previously uploaded were helpful for learning but didn't re
 
 **Tech Stack**: Vue.js • Go • MySQL • Docker • REST API • Tailwind CSS  
 **Description:** A full-stack application where users can create and share recipes, including ingredients, steps, and nutritional data. Focus on clean API design and dynamic UI interactions.  
-[🔗 View Repo](https://github.com/tyreesamurai/recipe-assistant)<!-- Replace with actual link -->
+[🔗 View Repo](https://github.com/tyreesamurai/recipe-assistant)
 
 ### 🃏 Multiplayer Card Game
 **Tech Stack**: Go (Gorilla WebSocket) • React Native • WebSocket  
-**Description**: A turn-based card game playable with friends. Built from scratch using WebSocket connections for real-time multiplayer gameplay.
-[🔗 View Repo](https://github.com/tyreesamurai/shithead)<!-- Replace with actual link -->
+**Description**: A turn-based card game playable with friends. Built from scratch using WebSocket connections for real-time multiplayer gameplay.  
+[🔗 View Repo](https://github.com/tyreesamurai/shithead)
 
 ### 💬 Language Learning Chatbot
 **Tech Stack**: Python • LLMs • LangChain • React • FastAPI  
-**Description**: An intelligent chatbot that reviews diary entriese in a target language & provides grammar corrections & learning suggestions.
+**Description**: An intelligent chatbot that reviews diary entriese in a target language & provides grammar corrections & learning suggestions.  
 [🔗 View Repo](https://github.com/tyreesamurai/diary-helper)
 
 ### 🌐 Portfolio Website
