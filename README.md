@@ -12,7 +12,7 @@ The class projects I previously uploaded were helpful for learning but didn't re
 
 ## 🧩 Ongoing Projects
 
-> I'm aiming to complete all of these projects within **6 months**, with regular progress updates.
+> I'm aiming to complete all of these projects within **6 months** (November 2025), with regular progress updates.
 
 ### 🔪 Recipe App
 
