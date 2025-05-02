@@ -21,12 +21,12 @@ The class projects I previously uploaded were helpful for learning but didn't re
 [🔗 View Repo](https://github.com/tyreesamurai/recipe-assistant)<!-- Replace with actual link -->
 
 ### 🃏 Multiplayer Card Game
-**Tech Stack**: Go (Gorilla WebSocket) • React Native • WebSocket
+**Tech Stack**: Go (Gorilla WebSocket) • React Native • WebSocket  
 **Description**: A turn-based card game playable with friends. Built from scratch using WebSocket connections for real-time multiplayer gameplay.
 [🔗 View Repo](https://github.com/tyreesamurai/shithead)<!-- Replace with actual link -->
 
 ### 💬 Language Learning Chatbot
-**Tech Stack**: Python • LLMs • LangChain • React • FastAPI
+**Tech Stack**: Python • LLMs • LangChain • React • FastAPI  
 **Description**: An intelligent chatbot that reviews diary entriese in a target language & provides grammar corrections & learning suggestions.
 [🔗 View Repo](https://github.com/tyreesamurai/diary-helper)
 
