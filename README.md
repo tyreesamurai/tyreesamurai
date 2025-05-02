@@ -16,12 +16,12 @@ The class projects I previously uploaded were helpful for learning but didn't re
 
 ### 🔪 Recipe App
 
-**Tech Stack**: Vue.js • Go • MySQL • Docker • REST API • Tailwind CSS  
+**Tech Stack**: Vue.js • C# • MySQL • Docker • REST API  
 **Description:** A full-stack application where users can create and share recipes, including ingredients, steps, and nutritional data. Focus on clean API design and dynamic UI interactions.  
 [🔗 View Repo](https://github.com/tyreesamurai/recipe-assistant)
 
 ### 🃏 Multiplayer Card Game
-**Tech Stack**: Go (Gorilla WebSocket) • React Native • WebSocket  
+**Tech Stack**: React Native • Go • WebSocket Connections  
 **Description**: A turn-based card game playable with friends. Built from scratch using WebSocket connections for real-time multiplayer gameplay.  
 [🔗 View Repo](https://github.com/tyreesamurai/shithead)
 
