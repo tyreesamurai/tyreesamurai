@@ -23,7 +23,7 @@ The class projects I previously uploaded were helpful for learning but didn't re
 ### 🃏 Multiplayer Card Game
 **Tech Stack**: React Native • Go • WebSocket Connections  
 **Description**: A turn-based card game playable with friends. Built from scratch using WebSocket connections for real-time multiplayer gameplay.  
-[🔗 View Repo](https://github.com/tyreesamurai/shithead)
+[🔗 View Repo](https://github.com/tyreesamurai/s-head)
 
 ### 💬 Language Learning Chatbot
 **Tech Stack**: Python • LLMs • LangChain • React • FastAPI  
