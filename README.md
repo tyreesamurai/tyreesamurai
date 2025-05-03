@@ -8,6 +8,11 @@ The class projects I previously uploaded were helpful for learning but didn't re
 - 🧠 Exploring modern web, backend, and infrastructure technologies
 - 🚀 Building a portfolio that demonstrates job-ready skills
 
+That said, one college project *does* stand out:  
+I was the developer on [VCU School of Nursing’s clinician tablet prototype](https://github.com/VCU-CS-Capstone/CS-25-303-SON-clinicians/), a React Native application designed to summarize patient survey data and assist clinicians in real-time. This project exceeded expectations and received interest for future funding and expansion — it was a turning point for me in understanding how impactful software can be when paired with real user needs.
+
+More projects coming soon!
+
 ---
 
 ## 🧩 Ongoing Projects
