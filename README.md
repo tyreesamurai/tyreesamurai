@@ -11,7 +11,7 @@ The class projects I previously uploaded were helpful for learning but didn't re
 That said, one college project *does* stand out:  
 I was a lead developer on [VCU School of Nursing’s clinician tablet prototype](https://github.com/tyreesamurai/vcu-clinician-app/), a React Native application designed to summarize patient survey data and assist clinicians in real-time. This project exceeded expectations and received interest for future funding and expansion — it was a turning point for me in understanding how impactful software can be when paired with real user needs.
 
-More projects coming soon!
+You can check out my live portfolio [here](https://tyreesamurai.github.io/portfolio) — more projects coming soon!
 
 ---
 
