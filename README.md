@@ -25,9 +25,3 @@ Across all of them, the focus is real multi-user support and apps that work toge
 - **Apps:** Go, TypeScript, Next.js, Bun, PostgreSQL, Drizzle
 - **Delivery:** GitHub Actions, Trivy, Semgrep
 - **Observability:** Prometheus, Grafana
-
-## Find me
-
-Portfolio: [tyreesamurai.github.io/portfolio](https://tyreesamurai.github.io/portfolio)
-
-Thanks for stopping by.
